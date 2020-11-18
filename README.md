@@ -1,11 +1,10 @@
-## Learning-Sprint-1
-### [YouTube Channel (Click)](https://www.youtube.com/channel/UCbxS7xvTdtRZbbua7orji8w) 
-### [Telegram Group (Click)](https://t.me/codechefuietpu)
-### [Instagram Page (Click)](https://www.instagram.com/codechef_uiet_pu_chapter/)
-### [Facebook Page (Click)](https://www.facebook.com/CodeChef-UIET-PU-Chapter-118633473385356/?view_public_for=118633473385356)
-### [LinkedIN Page (Click)](https://www.linkedin.com/company/codechef-uiet-pu-chapter/)
+<img src="https://github.com/CodeChef-UIET-PU-Chapter/Learning-Sprint-1/blob/main/Medium_Logo_Chapter.png" height=600>
 
-<img src="https://github.com/CodeChef-UIET-PU-Chapter/Learning-Sprint-1/blob/main/Medium_Logo_Chapter.png" height=300>
+[![Linkedin Badge](https://img.shields.io/badge/-CodeChef_UIET_PU_Chapter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/codechef-uiet-pu-chapter/)](https://www.linkedin.com/company/codechef-uiet-pu-chapter/) [![Gmail Badge](https://img.shields.io/badge/-codechefuietchapter@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:codechefuietchapter@gmail.com)](codechefuietchapter@gmail.com) [![YouTube Badge](https://img.shields.io/badge/-CodeChef_UIET_PU_Chapter-c14438?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCbxS7xvTdtRZbbua7orji8w)](https://www.youtube.com/channel/UCbxS7xvTdtRZbbua7orji8w) [![Instagram Badge](https://img.shields.io/badge/-CodeChef_UIET_PU_Chapter-5C2D91?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/codechef_uiet_pu_chapter/)](https://www.instagram.com/codechef_uiet_pu_chapter/) [![Telegram Badge](https://img.shields.io/badge/-CodeChef_UIET_PU_Chapter-white?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/codechefuietpu)](https://t.me/codechefuietpu) 
+
+
+
+# Learning-Sprint-1
 
 ## Questions can be found here: [click](https://docs.google.com/presentation/d/1oTro_KR4OwEhokVmutOow4_zW8CdVy0Ay9uB5IDF5xg/edit#slide=id.ga233f35528_1_0)
 
