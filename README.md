@@ -22,8 +22,10 @@ This series is divided into 2 tracks
 ### Advanced    (Fenwick Tree, Segment Tree)
 #### Resources
 ##### Fenwick Tree or BIT
-- (Must Read) Blog, with Explanation, Implementation and Practice Problems: [Go here](https://cp algorithms.com/data_structures/fenwick.html) 
+- (Must Read) Blog, with Explanation, Implementation and Practice Problems: [Go here](https://cp-algorithms.com/data_structures/fenwick.html) 
+
 - (Must Watch) YouTube Video, for better Understanding and Visualisation: [Go here](https://youtu.be/CWDQJGaN1gY)
 ##### Segment Tree
-- (Must Read) Blog, with Explanation, Implementation and Practice Problems: [Go here](https://cp algorithms.com/data_structures/segment_tree.html)
--(Must Watch) YouTube Video(s), for better Understanding and Visualisation: [Go here](https://youtu.be/W4KUVTjh8RQ)
+- (Must Read) Blog, with Explanation, Implementation and Practice Problems: [Go here](https://cp-algorithms.com/data_structures/segment_tree.html)
+
+- (Must Watch) YouTube Video(s), for better Understanding and Visualisation: [Go here](https://youtu.be/W4KUVTjh8RQ)
